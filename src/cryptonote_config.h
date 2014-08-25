@@ -26,8 +26,8 @@
 #define CRYPTONOTE_BLOCK_GRANTED_FULL_REWARD_ZONE       20000 //size of block (bytes) after which reward for block calculated using block size
 #define CRYPTONOTE_COINBASE_BLOB_RESERVED_SIZE          600
 //Define number of digits
-#define CRYPTONOTE_DISPLAY_DECIMAL_POINT                3
-//Number of smallest units in one coin
+#define CRYPTONOTE_DISPLAY_DECIMAL_POINT                4
+//Number of smallest units in one coin3
 #define COIN                                            ((uint64_t)10000) 
 //default fee for transactions
 #define DEFAULT_FEE                                     ((uint64_t)50) 
